@@ -9,7 +9,7 @@ export const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-          “My house situated in Baghdad Colony near Wirless Pul in Rahim yar khan.Rahim yar khan is a beautiful city.I like it so much.”.”
+          “My house situated in Baghdad Colony near Wirless Pul in Rahim yar khan.Rahim yar khan is a beautiful city.I like it so much.”
         </p>
       </blockquote>
       <figcaption className="font-medium">

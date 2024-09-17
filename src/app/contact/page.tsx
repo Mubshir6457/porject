@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import homeImage from "../component/images/p-pic.png"
+import homeImage from "@/component/images/p-pic.png"
 
 export const page = () => {
   return (
